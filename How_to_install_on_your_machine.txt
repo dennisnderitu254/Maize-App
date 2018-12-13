@@ -1,0 +1,9 @@
+1. Create a databases using your xampp(localhost/phpmyadmin) called tracsales
+
+2. While the database is selected. Import the file .. tracsales.sql .. This 
+will create all tables with testing data.
+
+3. Hoping you have Netbeans .. the Open the project .. MaizeApp and Run it 
+4. Administrator and employee . default . username(pyther) and password(12345)
+
+5. Test every bit. Thank You...
